@@ -103,10 +103,3 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 - pyttsx3 for text-to-speech functionality.
 
 
-## Contact
-
-- For questions or support, please reach out to me:
-
-- Email: iamakashjha@icloud.com
-
-- GitHub: https://github.com/iamakashjha/
